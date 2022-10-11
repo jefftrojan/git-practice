@@ -1,2 +1,2 @@
 # git-practice
-Branch of Boris 
+Github for repositories for projects at ALU, second semester
